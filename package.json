@@ -21,7 +21,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.10.3",
+    "gatsby": "^4.7.2",
     "gatsby-plugin-gatsby-cloud": "^4.10.1",
     "gatsby-plugin-google-gtag": "^4.10.0",
     "gatsby-plugin-image": "^2.10.1",
